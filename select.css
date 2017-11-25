@@ -1,0 +1,19 @@
+select{
+  margin-right: 5%;
+  margin-top: 5%;
+  font-style: normal;
+}
+
+#margen{
+  margin-left: 30%;
+  font-family: sans-serif;
+
+}
+
+strong{
+  font-size: 25px;
+  font-style: oblique;
+  margin-left: 42%;
+  margin-top: 1%;
+  position: absolute;
+}
